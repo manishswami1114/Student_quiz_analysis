@@ -6,8 +6,9 @@ This project analyzes student quiz performance and generates personalized recomm
 
 ## Setup Instructions
 1. Clone the repository:
-
-
+```
+git clone https://github.com/yourusername/student-quiz-performance-analysis.git
+```
 
 ## Approach Description
 - We fetch quiz data and submission data from the provided API endpoints.
